@@ -94,6 +94,8 @@ textarea{
 button {
     width: 200px;
     height: 40px;
+    cursor: pointer;
+
   }
 
   footer {
