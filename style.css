@@ -47,6 +47,8 @@ section {
   }
   
 
+
+  
  section div{
          display: inline-block;
           
@@ -96,8 +98,8 @@ button {
 
   footer {
     background-color: darkgray;
-    margin-bottom: 20px;
-    height: 200px;
+    margin-bottom: 30px;
+    height: 100px;
   }
 
 
